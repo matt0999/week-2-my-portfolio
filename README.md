@@ -1,1 +1,2 @@
 # week-2-my-portfolio
+For this project, I created a portfolio website for myself including links to my github and previous projects I have worked on. Most of the links are placeholders that lead to my gitlab profile, but I will likely update them in the future after i have worked on more projects. I also made the site fit onto different sized screens making the site mobile-friendly.
